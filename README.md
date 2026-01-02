@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/NitishChangti">LinkedIn</a> •
+  <a href="www.linkedin.com/in/nitish-changti-040a06229">LinkedIn</a> •
   <a href="https://x.com/NitishChangti">X</a>
 </p>
 
@@ -48,7 +48,7 @@ through practical implementation.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker_(Basic)-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker_(Learning)-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
@@ -57,53 +57,64 @@ through practical implementation.
 ## 🚀 Projects
 
 ### 🚗 Ride Booking System (Uber-like)
-- Backend APIs for users, drivers, and rides  
-- JWT-based authentication with role-based access  
-- MongoDB schema design and business logic  
+**Concepts:** REST APIs, JWT Authentication, Role-Based Access Control, MongoDB Modeling  
+- Designed backend APIs for users, drivers, and ride lifecycle  
+- Implemented JWT-based authentication and authorization  
+- Structured MongoDB schemas and handled business logic  
+
+🔗 **GitHub:** https://github.com/nitishChangti/uber.git
+🔗 **Demo:** https://uber-seven-beta.vercel.app/
+
+---
 
 ### 📹 Web-Based P2P Video Calling Application
-- Real-time audio/video communication using WebRTC  
-- Socket.IO signaling and peer connection handling  
-- ICE candidates and media stream management  
+**Concepts:** WebRTC, Socket.IO Signaling, Real-Time Communication, Peer Connections  
+- Built real-time audio/video calling using WebRTC  
+- Implemented signaling server with Socket.IO  
+- Managed ICE candidates and media streams  
+
+🔗 **GitHub:** https://github.com/nitishChangti/p2pCall.git  
+🔗 **Demo:** https://p2pcall-sigma.vercel.app/
+
+---
 
 ### 🛒 Full-Stack E-Commerce Platform
-- Secure authentication and user management  
-- Product, order, and workflow APIs  
-- Database-driven backend architecture  
+**Concepts:** REST APIs, Authentication, CRUD Operations, Backend Workflows  
+- Developed secure authentication and user management  
+- Implemented product, order, and checkout APIs  
+- Designed backend workflows and database interactions  
 
-### ⚙️ Backend-Driven Management Systems
-- RESTful API design and integrations  
-- Validation, error handling, and scalable backend logic  
+🔗 **GitHub:** https://github.com/nitishChangti/Strift.git  
+🔗 **Demo:** https://strift-frontend.vercel.app/
 
 ---
 
 ## 🎯 Current Focus
 
-- Strengthening backend architecture and API performance  
-- Improving system design and interview readiness  
-- Exploring scalable real-time application patterns  
+- Improving backend architecture, API performance, and code quality  
+- Strengthening system design fundamentals and interview preparation  
+- Learning Docker by containerizing Node.js applications  
+- Exploring scalable real-time applications using WebRTC and Socket.IO  
+
 
 ---
-
 ## 📫 Let’s Connect
 
-- Open to **Full-Time / Internship / Fresher / Junior Developer** roles  
-- Interested in **backend-heavy and full-stack** opportunities  
-- Always open to collaboration and learning  
+- Open to **Full-Time / Internship / Fresher / Junior** roles  
+- Seeking **backend-heavy and full-stack** opportunities  
+- Happy to collaborate, learn, and contribute to real-world projects  
+
+📩 Feel free to connect via **LinkedIn** or check out my projects above
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitishChangti&theme=dark&hide_border=true" height="140"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=nitishChangti&theme=dark&hide_border=true" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nitishChangti&theme=dark&hide_border=true" height="135"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=nitishChangti&theme=dark&hide_border=true" height="135"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishChangti&layout=compact&theme=dark&hide_border=true" height="130"/>
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=nitishChangti&icon=4&color=0"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishChangti&layout=compact&theme=dark&hide_border=true" height="120"/>
 </p>
