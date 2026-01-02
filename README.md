@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="www.linkedin.com/in/nitish-changti-040a06229">LinkedIn</a> •
-  <a href="https://x.com/NitishChangti">X</a>
+  <!-- <a href="https://x.com/NitishChangti">X</a> -->
 </p>
 
 <hr/>
